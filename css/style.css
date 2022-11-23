@@ -1,0 +1,28 @@
+div{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color:#f5f5dd;
+}
+
+#div2{
+    background-color: rgba(0, 0, 0, 0.75)
+}
+
+#div3{
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+#div4{
+    background-color: rgba(0, 0, 0, 0.25)
+}
+
+body{
+    margin-top: 50px;
+}
